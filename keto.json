@@ -1,19 +1,19 @@
 {
-    "version": "0.3.0-sandbox",
+    "version": "0.3.1-sandbox",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ory/keto/releases/download/v0.3.0-sandbox/keto_0.3.0-sandbox_Windows_32-bit.zip",
+            "url": "https://github.com/ory/keto/releases/download/v0.3.1-sandbox/keto_0.3.1-sandbox_Windows_32-bit.zip",
             "bin": [
                 "keto.exe"
             ],
-            "hash": "79be797ab28a262304c942838f64ea93590447e9c167f368620f613eec1958cd"
+            "hash": "fa6961097d9facca3d953e1d6556c490feb6da2e0951b54fe2fef0a8d16df0ab"
         },
         "64bit": {
-            "url": "https://github.com/ory/keto/releases/download/v0.3.0-sandbox/keto_0.3.0-sandbox_Windows_64-bit.zip",
+            "url": "https://github.com/ory/keto/releases/download/v0.3.1-sandbox/keto_0.3.1-sandbox_Windows_64-bit.zip",
             "bin": [
                 "keto.exe"
             ],
-            "hash": "1700cbbc56fa8f061bb758062f3ab67d273de8846539c18fd635184d7ba5f72c"
+            "hash": "2bdbd5eea5f3d4363bfc216c0faa3d61890472f0dc2091b12d950eaca3e42d81"
         }
     },
     "homepage": "https://www.ory.sh"
