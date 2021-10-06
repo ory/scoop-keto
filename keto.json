@@ -1,12 +1,12 @@
 {
-    "version": "0.7.0-alpha.0.pre.5",
+    "version": "0.7.0-alpha.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ory/keto/releases/download/v0.7.0-alpha.0.pre.5/keto_0.7.0-alpha.0.pre.5_windows_64bit.zip",
+            "url": "https://github.com/ory/keto/releases/download/v0.7.0-alpha.0/keto_0.7.0-alpha.0_windows_64bit.zip",
             "bin": [
                 "keto.exe"
             ],
-            "hash": "9c8594b956654ffd8bae4f0d21b03e84c07a00a5c2c712d543df47a36d5c41c5"
+            "hash": "b1ad551438c58e6ea2c0e8fd611b76c6c3366cfa6e31d018c5d1d07eda18237c"
         }
     },
     "homepage": "https://www.ory.sh"
